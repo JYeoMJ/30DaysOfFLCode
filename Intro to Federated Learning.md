@@ -34,6 +34,11 @@ This provides a high-level understanding of federated learning and its relevance
 
 ---
 
+## 1. Why Federated Learning
+
+The following demonstrates the motivation for applying federated learning using the MNIST dataset. It highlights scenarios where data is decentralized, and each decentralized dataset contains incomplete or missing data. This setup illustrates how federated learning can address such challenges by collaboratively training a model without requiring centralized data.
+
+
 ## Setup: Requirements
 
 ### `requirements.txt`
@@ -192,5 +197,15 @@ plot_confusion_matrix(confusion_matrix_model1, "Model 1 Confusion Matrix")
 - Visualizations and evaluations highlight the challenges of incomplete data distribution in federated systems.
 
 ---
+
+## 
+
+
+
+
+
+
+
+
 
 
